@@ -1,0 +1,2 @@
+cd C:\xampp\htdocs\NODE EXAMPLE\exercise_8\
+npm test
